@@ -1,0 +1,14 @@
+# Frontend
+node_modules
+dist
+
+# Backend
+backend/node_modules
+backend/.env
+
+# OS/editor
+.DS_Store
+node_modules
+dist
+backend/node_modules
+backend/.env
